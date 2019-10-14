@@ -1,5 +1,0 @@
-$(function () {
-
-    $.ajaxSetup({cache: true});
-
-});
